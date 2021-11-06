@@ -1,0 +1,12 @@
+node_modules
+out
+.idea
+src/style.css
+build
+.cache
+.web-cache
+dist
+coverage
+*.log
+.DS_Store
+storybook-static

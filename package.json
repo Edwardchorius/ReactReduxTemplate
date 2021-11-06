@@ -1,0 +1,24 @@
+{
+  "name": "reactreduxtemplate",
+  "version": "1.0.0",
+  "description": "\"#ReactReduxTemplate is for learning\"",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edwardchorius/ReactReduxTemplate.git"
+  },
+  "author": "Edwardcho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edwardchorius/ReactReduxTemplate/issues"
+  },
+  "homepage": "https://github.com/Edwardchorius/ReactReduxTemplate#readme"
+}
