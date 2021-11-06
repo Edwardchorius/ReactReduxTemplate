@@ -1,0 +1,1 @@
+"#ReactReduxTemplate is for learning" 
